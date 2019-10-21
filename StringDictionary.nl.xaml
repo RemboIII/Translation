@@ -242,26 +242,26 @@
 
 	<!--  from version 1.9.0  -->
 	<system:String x:Key="Words.Project">Project</system:String>
-	<system:String x:Key="Words.Bucket">Bucket</system:String>
-	<system:String x:Key="Words.Tenant">Tenant</system:String>
-	<system:String x:Key="Words.Subscription">Subscription</system:String>
-	<system:String x:Key="Words.Community">Community</system:String>
+	<system:String x:Key="Words.Bucket">Emmer</system:String>
+	<system:String x:Key="Words.Tenant">Huurder</system:String>
+	<system:String x:Key="Words.Subscription">Abonnement</system:String>
+	<system:String x:Key="Words.Community">Gemeenschap</system:String>
 	<system:String x:Key="Words.Document">Document</system:String>
 
-	<system:String x:Key="Words.Cache">Cache</system:String>
-	<system:String x:Key="Words.Lifetime">Lifetime</system:String>
-	<system:String x:Key="Words.Read">Read</system:String>
-	<system:String x:Key="Words.Write">Write</system:String>
-	<system:String x:Key="Words.Second">second</system:String>
+	<system:String x:Key="Words.Cache">Tijdelijke opslag</system:String>
+	<system:String x:Key="Words.Lifetime">Tijdsduur</system:String>
+	<system:String x:Key="Words.Read">Lezen</system:String>
+	<system:String x:Key="Words.Write">Schrijven</system:String>
+	<system:String x:Key="Words.Second">Seconde</system:String>
 
-	<system:String x:Key="Account.AccessKeyID">Access Key ID</system:String>
-	<system:String x:Key="Account.SecretAccessKey">Secret Access Key</system:String>
-	<system:String x:Key="Vailidation.AccessKeyID">Please enter Access Key ID</system:String>
-	<system:String x:Key="Vailidation.SecretAccessKey">Please enter Secret Access Key</system:String>
+	<system:String x:Key="Account.AccessKeyID">Gebruikersnaam</system:String>
+	<system:String x:Key="Account.SecretAccessKey">Wachtwoord</system:String>
+	<system:String x:Key="Vailidation.AccessKeyID">Voer gebruikersnaam in</system:String>
+	<system:String x:Key="Vailidation.SecretAccessKey">Voer wachtwoord in</system:String>
 
-	<system:String x:Key="Account.StorageAccount">Storage Account</system:String>
-	<system:String x:Key="Account.StorageKey">Key</system:String>
-	<system:String x:Key="Vailidation.StorageAccount">Please enter Storage account name</system:String>
-	<system:String x:Key="Vailidation.StorageKey">Please enter key1 or key2</system:String>
+	<system:String x:Key="Account.StorageAccount">Gebruikersnaam voor opslag</system:String>
+	<system:String x:Key="Account.StorageKey">Wachtwoord voor opslag</system:String>
+	<system:String x:Key="Vailidation.StorageAccount">Voer gebruikersnaam voor opslag in</system:String>
+	<system:String x:Key="Vailidation.StorageKey">Voer wachtwoord 1 of 2 in</system:String>
 
 </ResourceDictionary>
